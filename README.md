@@ -3,7 +3,7 @@
 <!--
 **LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-with a passion for automation and infrastructure as code
+
 I am [Furqan](www.linkedin.com/in/syed-furqan-shah-9a39b655), a DevOps Engineer from Pakistan with a passion for Automation and Cloud Technologies with 2+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python and Cloud based technologies. 🚀
@@ -16,12 +16,15 @@ I mostly work with Python and Cloud based technologies. 🚀
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
+  
   <a href="https://kubernetes.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/kubernetes.gif" height="80" /> 
   </a> 
+  
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
+  
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
