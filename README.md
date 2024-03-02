@@ -40,9 +40,6 @@ I mostly work with Python and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
    
-  <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://www.gstatic.com/cloud/images/navigation/home.png"  height="80" />
-  </a> 
  </p>
   
 ### Databases and Monitoring
