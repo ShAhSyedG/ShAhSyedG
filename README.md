@@ -63,5 +63,5 @@ I mostly work with Python and Cloud based technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn](www.linkedin.com/in/syed-furqan-shah-9a39b655) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/syed-furqan-shah-9a39b655) 👨🏻‍💻
  - Shoot Me an [Email](mailto:shahsyed216@gmail.com) 💌
