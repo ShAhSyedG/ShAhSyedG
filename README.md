@@ -3,10 +3,10 @@
 <!--
 **LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+with a passion for automation and infrastructure as code
+I am [Furqan](www.linkedin.com/in/syed-furqan-shah-9a39b655), a DevOps Engineer from Pakistan with a passion for Automation and Cloud Technologies with 2+ years of professional onsite as well as remote working experience. 🎯
 
-I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 6+ years of professional onsite as well as remote working experience. 🎯
-
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Python and Cloud based technologies. 🚀
 
 
 <p float="left">
@@ -16,21 +16,15 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
+  <a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/kubernetes.gif" height="80" /> 
+  </a> 
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
   
 ### DevOps
   
@@ -41,6 +35,9 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://www.gstatic.com/cloud/images/navigation/home.png"  height="75" />
+  </a> 
  </p>
   
 ### Databases and Monitoring
@@ -48,8 +45,8 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
   </a>
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
@@ -64,7 +61,5 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Connect with me on [LinkedIn](www.linkedin.com/in/syed-furqan-shah-9a39b655/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:shahsyed216@gmail.com) 💌
