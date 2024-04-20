@@ -60,6 +60,12 @@ I mostly work with Python and Cloud based technologies. 🚀
   
 </p>
 
+--> 👀 Focusing on:-
+
+Zero Down time Infra.
+Automation.
+Self Healing Infra.
+Observability stack.
 
 ### 📫 How to reach me?
 
