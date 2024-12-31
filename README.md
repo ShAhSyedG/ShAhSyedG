@@ -25,6 +25,15 @@ I mostly work with Go and Cloud based technologies. 🚀
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
+  <!-- ArgoCD -->
+  <a href="https://argo-cd.readthedocs.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/argoproj/argoproj/main/docs/assets/argo.png" height="75" alt="ArgoCD" />
+  </a> 
+
+  <!-- Helm Charts -->
+  <a href="https://helm.sh/" target="_blank">
+    <img src="https://helm.sh/img/helm.svg" height="75" alt="Helm Charts" />
+  </a>
   
 ### DevOps
   
@@ -35,15 +44,6 @@ I mostly work with Go and Cloud based technologies. 🚀
    
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-  <!-- ArgoCD -->
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/argoproj/argoproj/main/docs/assets/argo.png" height="75" alt="ArgoCD" />
-  </a> 
-
-  <!-- Helm Charts -->
-  <a href="https://helm.sh/" target="_blank">
-    <img src="https://helm.sh/img/helm.svg" height="75" alt="Helm Charts" />
   </a>
    
  </p>
