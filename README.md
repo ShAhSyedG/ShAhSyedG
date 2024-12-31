@@ -6,9 +6,10 @@ I mostly work with Go and Cloud based technologies. 🚀
 
 
 <p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://blog.golang.org/gopher/gopher.png" height="90" alt="Go Gopher" />
   </a>
+
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
