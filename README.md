@@ -29,12 +29,21 @@ I mostly work with Go and Cloud based technologies. 🚀
 ### DevOps
   
  <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/logos/logo-ms.svg" height="75" alt="Azure DevOps" />
+  </a>
    
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+  <!-- ArgoCD -->
+  <a href="https://argo-cd.readthedocs.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/argoproj/argoproj/main/docs/assets/argo.png" height="75" alt="ArgoCD" />
+  </a> 
+
+  <!-- Helm Charts -->
+  <a href="https://helm.sh/" target="_blank">
+    <img src="https://helm.sh/img/helm.svg" height="75" alt="Helm Charts" />
   </a>
    
  </p>
