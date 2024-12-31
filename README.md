@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am [Furqan Shah](https://www.linkedin.com/in/syed-furqan-shah-9a39b655), a DevOps Engineer from Pakistan with a passion for Automation and Cloud Technologies with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Furqan Shah](https://www.linkedin.com/in/syed-furqan-shah-9a39b655), a DevOps Engineer from Pakistan with a passion for Automation and Cloud Technologies with 3+ years of professional onsite as well as remote working experience. 🎯
 
-I mostly work with Python and Cloud based technologies. 🚀
+I mostly work with Go and Cloud based technologies. 🚀
 
 
 <p float="left">
